@@ -11,4 +11,4 @@
 - Convolutional Spiking Neural Networks
 
 ## MSML 699: Independent Study in Machine Learning 
-- Oscillatory Reservoir Computer
+- Still Confidential (12/14/23)
