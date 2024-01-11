@@ -11,4 +11,4 @@
 - Convolutional Spiking Neural Networks
 
 ## MSML 699: Independent Study in Machine Learning 
-- Still Confidential (12/26/23)
+- Still Confidential (1/11/24)
